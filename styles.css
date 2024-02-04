@@ -1,20 +1,22 @@
+div.col {
+    padding: 0;
+}
+
 .body-0 {
     text-align: center;
     background-image: url("ciudad.jpeg");
-    height:500px;
+    height:600px;
+    padding-top: 60px;
 }
 
-.body-0 h1 {
+ p {
     font-size: 100px;
     background-color: white;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
 }
 
-.body-0 h2 {
-    font-size: 75px;
-    background-color: white;
-    margin-left: 20px;
-    margin-right: 20px;
+.frase2 {
+    font-size: 65px;
 }
